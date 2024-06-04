@@ -126,9 +126,9 @@ make unit_tests
 - Every function you add must be code-style.
 - Before merging, you'll need to check that all unit tests pass by running ```make tests_run```.
 - Each commit will contain ```[+]``` or ```[-]``` or ```[~]``` followed by a message
-    - ```[+]``` : Added functionality
+    - ```[+]``` : Add feature
     - ```[-]``` : Delete feature
-    - ```[~]``` : Feature modification
+    - ```[~]``` : Edit feature
 
 **Of course, in exceptional cases, we may depart from these rules.**
 
